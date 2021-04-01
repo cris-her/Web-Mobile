@@ -188,7 +188,7 @@ Objetivo: Conocer el manejo básico de datos de tipo JSON y la transmisión así
 6. 1 Javascript Object Notation (JSON)
 6.1.1 ¿Para qué sirve JSON?.
 6.1.2 Tipos de datos JSON.
- 6.2 Conversión de datos JSON.
+6.2 Conversión de datos JSON.
 6.2.1 Asynchronous JavaScript And XML (AJAX).
 6.2.2¿Qué es Ajax?
 6.2.3 Manejo de datos asíncronos con AJAX.
