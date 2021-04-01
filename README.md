@@ -185,7 +185,7 @@ Objetivo: Entender la manera en la que se estructuran los elementos de un docume
 
 6. CONCEPTOS AVANZADOS
 Objetivo: Conocer el manejo básico de datos de tipo JSON y la transmisión asíncrona con AJAX.
-6. 1 Javascript Object Notation (JSON)
+6.1 Javascript Object Notation (JSON)
 6.1.1 ¿Para qué sirve JSON?.
 6.1.2 Tipos de datos JSON.
 6.2 Conversión de datos JSON.
