@@ -410,7 +410,7 @@ Objetivo: Conocer los fundamentos de la ingeniería de software, para la inclusi
 1.4.1 Orígenes de las metodologías de desarrollo ágil. 
 1.4.2 Metodología Lean.
 1.4.3 Xtreme Programming.
-1.4.4	SCRUM
+1.4.4	SCRUM.
 
 2.	PATRONES DE DISEÑO Y ARQUITECTURA DE SOFTWARE
 Objetivo: Definir las arquitecturas para el desarrollo de software y aplicar los conocimientos de reutilización de soluciones exitosas a problemas comunes por medio de patrones de diseño.
