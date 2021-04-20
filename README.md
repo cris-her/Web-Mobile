@@ -411,7 +411,7 @@ Objetivo: Conocer los fundamentos de la ingeniería de software, para la inclusi
 1.4.2 Metodología Lean.
 1.4.3 Xtreme Programming.
 1.4.4	SCRUM
-.
+
 2.	PATRONES DE DISEÑO Y ARQUITECTURA DE SOFTWARE
 Objetivo: Definir las arquitecturas para el desarrollo de software y aplicar los conocimientos de reutilización de soluciones exitosas a problemas comunes por medio de patrones de diseño.
 2.1 Origen de los patrones diseño.
@@ -419,7 +419,6 @@ Objetivo: Definir las arquitecturas para el desarrollo de software y aplicar los
 2.2.1 Tipos de patrones de diseño.
 2.3 Patrones para la construcción de componentes (Factory Patterns).
 2.3.1 Patrón de diseño Factory. 
-
 2.3.2 Patrón de diseño Singleton.
 2.4 Patrones de diseño de estructura.
 2.4.1 Patrón Puente (Bridge).
