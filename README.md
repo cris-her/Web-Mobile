@@ -392,3 +392,86 @@ Objetivo: Entender a desarrollar videojuegos básicos en aplicaciones móviles.
 5.1 Librerías y frameworks.
 5.2 Proyecto de programación de videojuegos.
 
+
+# Ingeniería de Software
+
+1.	INTRODUCCIÓN A LA INGENIERÍA DE SOFTWARE
+Objetivo: Conocer los fundamentos de la ingeniería de software, para la inclusión de buenas prácticas en el desarrollo de productos de software de calidad.
+1.1 Definición de ingeniería de software.
+1.2 Estructura de la ingeniería de software
+1.2.1 Ciclo de vida del desarrollo de software.
+1.2.2 Herramientas para el desarrollo de software.
+1.3 El proceso de desarrollo de software, como instrumento rector en la construcción de software de calidad.
+1.3.1 Ejemplos de procesos de desarrollo de software.
+1.3.1.1 Unified Process.
+1.3.1.2 Personal Software Process.
+1.3.1.3 Team Software Process.
+1.4 Metodologías de desarrollo ágil.
+1.4.1 Orígenes de las metodologías de desarrollo ágil. 
+1.4.2 Metodología Lean.
+1.4.3 Xtreme Programming.
+1.4.4	SCRUM
+.
+2.	PATRONES DE DISEÑO Y ARQUITECTURA DE SOFTWARE
+Objetivo: Definir las arquitecturas para el desarrollo de software y aplicar los conocimientos de reutilización de soluciones exitosas a problemas comunes por medio de patrones de diseño.
+2.1 Origen de los patrones diseño.
+2.2 Catálogo inicial de patrones.
+2.2.1 Tipos de patrones de diseño.
+2.3 Patrones para la construcción de componentes (Factory Patterns).
+2.3.1 Patrón de diseño Factory. 
+
+2.3.2 Patrón de diseño Singleton.
+2.4 Patrones de diseño de estructura.
+2.4.1 Patrón Puente (Bridge).
+2.4.2 Patrón Adaptador (Adapter).
+2.5 Patrones de diseño de comportamiento.
+2.5.1 Patrón Observer.
+2.5.2 Patrón Command.
+2.6 Patrón Modelo-Vista- Controlador (MVC).
+
+3.	GESTIÓN DE PROYECTOS Y ASEGURAMIENTO DE LA CALIDAD DEL SOFTWARE
+Objetivo: Adquirir los conocimientos básicos referentes a la estimación, gestión y seguimiento de un proyecto de desarrollo de software, con herramientas y técnicas formales en el mercado.
+3.1 Planificación de proyectos de software.
+3.1.1 Técnicas de estimación del esfuerzo.
+3.1.1.1 Puntos por función.
+3.1.1.2 Constructive Cost Model (COCOMO).
+3.2 Establecimiento de las actividades y asignación de recursos.
+3.2.1 Métricas para la gestión de proyectos. 
+3.2.2 Gráficas de Gantt y ruta crítica.
+3.2.3 Seguimiento de las actividades 
+3.2.4 Gestión de cambios de alcance.
+3.3 Gestión de riesgos.
+3.3.1 Clasificación de riesgos.
+3.3.2 Planes de contención y contingencia.
+3.4 Calidad de software.
+3.4.1 Estándares de calidad.
+3.4.1.1 ISO 15504. Software Process Improvement and Capability Determination.
+3.4.1.2 ISO IEC/25010:2011. Requisitos de Calidad y Evaluación de Sistemas y Software.
+3.4.2 Gestión basada en la mejora de procesos.
+3.4.2.1 CMMi.
+3.4.2.2 Moprosoft.
+
+4.	SCRUM COMO METODOLOGÍA DE DESARROLLO ÁGIL
+Objetivo: Comprender los conceptos de desarrollo de software mediante la metodología de desarrollo ágil SCRUM, y aplicarlos a un caso práctico.
+4.1 Orígenes de la metodología.
+4.2 Roles de la metodología SCRUM.
+4.2.1 Scrum Master.
+4.2.2 Scrum Team.
+4.2.3 Producto Owner.
+4.3 Estructura de desarrollo basada en ciclos.
+4.3.1 Backlog del producto.
+4.3.2 Planeación del Sprint.
+4.3.3 Ejecución del Sprint.
+4.3.4 Revisión y retrospectiva.
+4.4 Desarrollo de un caso práctico con SCRUM.
+
+5.	LA INGENIERÍA DE SOFTWARE Y EL GOBIERNO DE LAS TECNOLOGÍAS DE LA INFORMACIÓN
+Objetivo: Comprender cómo se administran las Tecnologías de la Información, a través de los conocimientos de la arquitectura empresarial para el desarrollo de software.
+5.1 Introducción al gobierno de las tecnologías de la información. IT Gobernance.
+5.2 La norma ISO/IEC -38500.
+5.3 Arquitectura Empresarial.
+5.4 Dominios del gobierno de TI.
+5.5 Frameworks para el Gobierno de las T.I. 
+5.5.1 ITIL.
+5.5.2 Cobit 5.
+5.5.3 ISO 27000.
